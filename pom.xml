@@ -1,0 +1,105 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>es.arturo</groupId>
+  <artifactId>companyx_028</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>companyx_028 Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <properties>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+    <neo4j.version>2.3.1</neo4j.version>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+		<!-- neo4j driver -->
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j</artifactId>
+			<version>${neo4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j-kernel</artifactId>
+			<version>${neo4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j-io</artifactId>
+			<version>${neo4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j-lucene-index</artifactId>
+			<version>${neo4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j-cypher</artifactId>
+			<version>${neo4j.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j-shell</artifactId>
+			<version>${neo4j.version}</version>
+		</dependency>
+
+		<dependency>  
+		  <groupId>org.neo4j</groupId>  
+		  <artifactId>neo4j-rest-graphdb</artifactId>  
+		  <version>1.8.1</version>  
+		</dependency>  
+		  
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>3.7</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-scratchpad</artifactId>
+			<version>3.7</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.7</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.pdfbox</groupId>
+			<artifactId>pdfbox-app</artifactId>
+			<version>2.0.0-RC2</version>
+		</dependency>
+		
+  </dependencies>
+  <repositories>  
+     <repository>  
+       <id>mvn-neo4j</id>  
+       <url>http://m2.neo4j.org/content/groups/everything</url>  
+     </repository>  
+  </repositories>  
+  <build>
+    <finalName>companyx_028</finalName>
+  </build>
+</project>

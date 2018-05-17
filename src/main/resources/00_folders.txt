@@ -1,0 +1,22 @@
+Father	Full path	Folders	Full_Folder_name
+.	.	data_sample	data_sample
+data_sample	data_sample	PRE-PSTM-GATHERS	data_sample/PRE-PSTM-GATHERS
+data_sample	data_sample	PSTM-GATHERS	data_sample/PSTM-GATHERS
+data_sample	data_sample	FINAL-STACKING-VELS	data_sample/FINAL-STACKING-VELS
+data_sample	data_sample	GRAVMAG INTERPRETATION - FUGRO	data_sample/GRAVMAG INTERPRETATION - FUGRO
+GRAVMAG INTERPRETATION - FUGRO	data_sample/GRAVMAG INTERPRETATION - FUGRO	Qualitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation
+Qualitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation	ArcGIS	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS
+Qualitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation	Grids	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids
+Qualitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation	Images	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images
+GRAVMAG INTERPRETATION - FUGRO	data_sample/GRAVMAG INTERPRETATION - FUGRO	Quantitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation
+Quantitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	Seismic	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Seismic
+Quantitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	Magnetic_Depth_Estimates	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Magnetic_Depth_Estimates
+Quantitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	Wells	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells
+Quantitative_Interpretation	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	2D_Model	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/2D_Model
+data_sample	data_sample	TEST_TAPE-Date_7-10-2009	data_sample/TEST_TAPE-Date_7-10-2009
+data_sample	data_sample	FINAL-PSTM-STKS	data_sample/FINAL-PSTM-STKS
+data_sample	data_sample	FINAL PROCESSING REPORT	data_sample/FINAL PROCESSING REPORT
+
+
+
+

@@ -1,0 +1,71 @@
+<html>
+   <head>
+   <script type="text/javascript">
+   function submitForm()
+   {
+	   document.form1.target = "myActionWin";
+	   window.open("","myActionWin", 'top=0,left=0,width='+(screen.availWidth)+',height ='+(screen.availHeight)+',fullscreen=yes,toolbar=0 ,location=0,directories=0,status=0,menubar=0,resizable=0,scrolling=0,scrollbars=0');
+	
+	   document.form1.submit();
+   }
+   
+   function submitClients()
+   {
+	   document.clients.target = "clients";
+	   window.open("","clients", 'top=0,left=0,width='+(screen.availWidth)+',height ='+(screen.availHeight)+',fullscreen=yes,toolbar=0 ,location=0,directories=0,status=0,menubar=0,resizable=0,scrolling=0,scrollbars=0');
+	
+	   document.clients.submit();
+   }
+   
+   function submitControlPanel(panelType)
+   {
+		alert(panelType);
+	   document.clients.target = panelType;
+	   window.open("","clients", 'top=0,left=0,width='+(screen.availWidth)+',height ='+(screen.availHeight)+',fullscreen=yes,toolbar=0 ,location=0,directories=0,status=0,menubar=0,resizable=0,scrolling=0,scrollbars=0');
+	
+	   eval("document."+panelType+".submit()");
+   }   
+   
+   </script>
+   </head>
+   <body>
+   
+		<div class="section">
+			<div class="container">
+				<input action="action" type="button" style="background-image:url('images/mangreen.png');background-size: 105px 105px;width:105px;height:105px" onclick="location.href = 'clients.jsp'" target="_blank" />
+				<input action="action" type="button" style="background-image:url('images/verde.png');background-size: 105px 105px;width:105px;height:105px" onclick="location.href = 'vehicles.jsp'" target="_blank" />
+				<input action="action" type="button" style="background-image:url('images/poigreen.png');background-size: 105px 105px;width:105px;height:105px" onclick="location.href = 'pois.jsp'" target="_blank" />
+			</div>
+
+			<div class="container">
+				<img src="images/presentacion.png" width="1150" height="400"/>
+			</div>
+			<!-- /.container -->
+
+		</div>   
+
+		<form name="clients" action="cypher" method="post" >
+			<input name="consultaCypher" id="consultaCypher" type="hidden"
+					value="MATCH (c)-[r:TIENE]->(v)-[]->() WITH MAX(ToInt(v.maxspeed)) AS velocidad, c.clienteID AS cliente WHERE velocidad > 100 AND 200 > velocidad RETURN DISTINCT cliente, velocidad ORDER BY cliente, velocidad DESC" />
+			<input name="pantalla" type="hidden" value="_clients" />
+			<input id="texto-cypher" type="submit" style="background-image:url('images/mangreen.png');background-size: 105px 105px;width:105px;height:105px" onclick="submitControlPanel('clients')" />
+
+		</form>   	
+
+		<form name="vehicles" action="cypher" method="post" >
+			<input name="consultaCypher" id="consultaCypher" type="hidden"
+					value="MATCH (c)-[r:TIENE]->(v)-[]->() WITH MAX(ToInt(v.maxspeed)) AS velocidad, c.clienteID AS cliente WHERE velocidad > 100 AND 200 > velocidad RETURN DISTINCT cliente, velocidad ORDER BY cliente, velocidad DESC" />
+			<input name="pantalla" type="hidden" value="_clients" />
+			<input id="texto-cypher" type="submit" style="background-image:url('images/verde.png');background-size: 105px 105px;width:105px;height:105px" onclick="submitControlPanel('vehicles')" />
+
+		</form>   
+		
+		<form name="form1" action="cypher" method="post" >
+			<input name="consultaCypher" id="consultaCypher" type="hidden"
+					value="MATCH (v)-[r:HA_ESTADO_EN]->(p) WITH v.vehiculoID as vehiculo, round(100.0 * toFloat(replace(p.longitud,',','.'))) / 100.0 as longitud, v.Cliente as cliente, round(100.0 * toFloat(replace(p.latitud,',','.'))) / 100.0 as latitud, toInt(replace(r.velocidad,',','.')) as velocidad, r.fecha as fecha WHERE velocidad > 120 RETURN DISTINCT cliente, vehiculo, latitud, longitud, velocidad, fecha ORDER BY cliente, vehiculo, fecha desc" />
+			<input name="pantalla" type="hidden" value="formulariofrecuentamucho_mapa" />
+			<input id="texto-cypher" type="submit" value="Donde se supero la velocidad" onclick="submitForm()" />
+		</form>   	
+   </body>
+</html>
+ 

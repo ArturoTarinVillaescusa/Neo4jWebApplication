@@ -1,0 +1,139 @@
+/* 
+Custom CSS for...
+'Modern Business' HTML Theme by Start Bootstrap
+
+All Start Bootstrap themes are licensed under Apache 2.0. 
+For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap.com!
+*/
+
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+td {
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 200px 200px 200px 200px;
+	border: 0px solid #000000;
+}
+
+.navbar-default,
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav {
+	 background-color: #FF5500;
+	 color: white;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav:hover,
+.navbar-default .navbar-nav:focus {
+     color: black;
+}
+
+#form {
+    background-color: #FFF;
+    height: 600px;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px;
+    text-align:center;
+}
+
+label {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    color: #333;
+    height: 20px;
+    width: 270px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: right;
+	vertical-align: text-bottom;
+    margin-right:15px;
+    float:left;
+}
+
+input {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    color: #333;
+    height: 20px;
+    width: 220px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: right;
+	vertical-align: text-top;
+    margin-right:15px;
+    float:left;
+}
+
+output {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #333;
+    height: 20px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: right;
+	vertical-align: text-bottom;
+    margin-right:15px;
+    float:left;
+}
+
+.bloque_google { 
+    margin :1px;
+    float:left;
+}
+	
+/* Footer Styles */
+footer {
+    margin: 50px 0;
+}
+
+header {
+    margin: 50px 0;
+	background-color: #FF5500;
+	color: white;
+}
+
+input[type=submit] {
+    width: 200px;
+    height:30px;
+    text-align: center;
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    background-color: silver;
+    width: 200px;
+    height:30px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+     -webkit-appearance: none;
+    background-color: #000000;
+    opacity: 0.5;
+    width: 10px;
+    height: 26px;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}

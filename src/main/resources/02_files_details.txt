@@ -1,0 +1,145 @@
+Date	Size	Path	File name	Extension
+2010-08-02	7102668	data_sample/FINAL-STACKING-VELS	FINAL-VELS-024-09SEYA-030P1	SHELLV5
+2010-08-02	6484333	data_sample/FINAL-STACKING-VELS	FINAL-VELS-025-09SEYA-032P1	SHELLV5
+2015-12-21	775	data_sample	tree_file	
+2015-11-21	4096	data_sample	GRAVMAG INTERPRETATION - FUGRO	
+2011-01-06	4314489	data_sample/GRAVMAG INTERPRETATION - FUGRO	report	pdf
+2015-11-06	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO	Qualitative_Interpretation	
+2015-11-21	12288	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation	ArcGIS	
+2010-08-23	931	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_pass_below4000	ers
+2008-07-09	212	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	wells	shp
+2010-08-19	100	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TG_lineaments	shp
+2006-11-01	347	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	seychelles_coast	prj
+2008-07-09	132	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	wells	shx
+2007-05-24	368788	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	seychelles_coast	dbf
+2010-08-19	156	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnzCopy	sbx
+2010-08-19	284	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_coherence_contour_0.97_lnz	shx
+2010-08-19	848572	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnz	shp
+2010-08-19	697	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnz	dbf
+2010-08-23	922	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_DM4300	ers
+2008-07-09	1677	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	wells	dbf
+2010-08-19	904	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP	ers
+2010-08-19	906	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_HG	ers
+2010-08-23	911	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_TMI	ers
+2010-08-23	8770	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_DM2700	aux
+2010-08-19	212	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_HG_lineaments	shx
+2010-08-19	5950	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA	aux
+2010-11-14	762368	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	seychelles_gravmag	mxd
+2010-08-23	8770	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_DM1800	aux
+2010-08-23	923	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_DM1800	ers
+2010-08-19	1372	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG_lineaments	shp
+2010-08-19	172	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TA_contour_0_lnz	shx
+2010-08-19	124	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG_lineaments	shx
+2010-10-27	20360	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Lineaments_combined	shp
+2007-05-24	10164	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	seychelles_coast	shx
+2010-08-23	915	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity	ers
+2010-08-23	923	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_DM4000	ers
+2010-08-19	3268	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_HG_lineaments	shp
+2010-08-23	8770	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_DM4000	aux
+2010-10-27	276	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Lineaments_combined	sbx
+2010-08-19	906	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG	ers
+2010-08-19	300	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnzCopy	shx
+2010-11-14	745472	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Plateau_edge	mdb
+2010-08-23	922	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_DM3000	ers
+2010-09-02	6256	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	3deuler	aux
+2010-08-19	913	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_coherence	ers
+2010-08-19	907	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TG	ers
+2010-08-19	697	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnzCopy	dbf
+2010-11-11	5956	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP	aux
+2010-08-19	412	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnzCopy	sbn
+2010-08-19	908	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_1VD	ers
+2010-08-19	156	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnz	sbx
+2010-08-26	2209	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_2VD_contour_0_lnz	dbf
+2010-08-19	300	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnz	shx
+2010-08-19	66	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TG_lineaments	dbf
+2010-08-23	8770	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_pass_below4000	aux
+2010-08-19	907	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_HG	ers
+2010-08-19	313	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TA_contour_0_lnz	dbf
+2010-08-19	356	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_polygons	shx
+2010-08-23	5950	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_HG	aux
+2010-08-23	5962	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_1VD	aux
+2010-08-19	848572	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnzCopy	shp
+2010-08-19	164	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_HG_lineaments	dbf
+2010-08-19	132	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG_lineaments	sbx
+2010-08-19	100	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TG_lineaments	shx
+2010-08-19	5949	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG	aux
+2010-10-27	1212	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Lineaments_combined	shx
+2010-08-19	107149	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	lines_anno	dxf
+2010-10-26	408	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Lineaments_combined	prj
+2010-08-19	87	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG_lineaments	dbf
+2010-10-27	1628	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Lineaments_combined	sbn
+2010-08-19	907	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_1VD	ers
+2010-08-23	923	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_DM2700	ers
+2010-08-23	922	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_DM2000	ers
+2010-08-19	180	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TG_lineaments	sbn
+2010-08-19	270108	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TA_contour_0_lnz	shp
+2010-08-19	907	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA	ers
+2010-08-19	150	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_1VD_lineaments	dbf
+2010-08-23	923	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_DM11000	ers
+2010-08-19	290	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_polygons	dbf
+2010-08-19	412	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_contour_0_lnz	sbn
+2010-09-02	915	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	3deuler	ers
+2010-10-27	1039	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Lineaments_combined	dbf
+2008-07-09	398	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	wells	prj
+2010-08-19	907	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_2VD	ers
+2010-08-19	913	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_TA	ers
+2010-08-19	649	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	Bouguer_gravity_coherence_contour_0.97_lnz	dbf
+2010-08-19	533252	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/ArcGIS	magnetics_RTP_TA_polygons	shp
+2015-11-21	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation	Grids	
+2010-08-04	63065	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	magnetics_RTP_HG	gxf
+2010-08-04	63065	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	magnetics_RTP_TA	gxf
+2010-09-02	19574	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	3deuler	gxf
+2010-08-04	63065	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	magnetics_RTP_TG	gxf
+2010-07-26	63078	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	Bouguer_gravity	gxf
+2010-07-26	63044	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	water_depth	gxf
+2010-07-26	63068	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	magnetics_TMI	gxf
+2010-08-23	63066	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Grids	magnetics_RTP_pass_below4000	gxf
+2015-11-21	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation	Images	
+2010-09-02	41542	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	3deuler_color	jpg
+2010-11-11	1681025	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	Bouguer_gravity	jpg
+2010-11-14	3827039	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	structural_interpretation	jpg
+2010-09-02	1551868	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	3deuler	jpg
+2010-08-24	50856	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	3deuler_symbols	png
+2010-11-11	3144494	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	magnetics_RTP_HG	jpg
+2010-08-02	30720	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	Thumbs	db
+2010-11-11	40511	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	magnetics_TMI_color	jpg
+2010-10-04	125344	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	Seagull_Shoal_1	png
+2010-11-11	2148018	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	magnetics_RTP_DM4000	jpg
+2010-10-04	121374	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	Seagull_Shoal_1_scatter	png
+2010-11-11	36449	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	magnetics_RTP_DM4000_color	jpg
+2010-08-02	458108	data_sample/GRAVMAG INTERPRETATION - FUGRO/Qualitative_Interpretation/Images	Bouguer_gravity_1VD	jpg
+2015-11-06	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO	Quantitative_Interpretation	
+2015-11-06	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	Seismic	
+2010-11-25	44323344	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Seismic	Model Line 09SEYA-025 PSDM	sgy
+2010-07-25	2539341	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Seismic	09SEYA-025 with interpretation	jpg
+2010-07-25	2532095	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Seismic	09SEYA-025 clean	jpg
+2015-11-06	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	Magnetic_Depth_Estimates	
+2010-12-16	2616	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Magnetic_Depth_Estimates	estimates	xyz
+2015-11-21	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	Wells	
+2010-10-03	9520788	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells	Seagull Shoals #1_Corrected Log Data	las
+2010-07-25	1735257	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells	Seagull Shoals No 1 Composite Well Log Part A 0 to 3840ft	pdf
+2010-07-25	783088	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells	Seagull Shoals No 1 Raw DT GR ILD	LAS
+2010-07-25	23414676	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells	Seagull Shoals No 1 FDC_CNL_GR_SP 1-200-500 RUN 1 321-1139ft	tif
+2010-07-25	761790	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells	Seagull Shoals No 1 Edited DT GR ILD	LAS
+2010-10-04	9502377	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/Wells	Seagull Shoals #1_Corrected Log Data_rs	las
+2015-11-06	4096	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation	2D_Model	
+2011-01-04	3508873	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/2D_Model	Line09SEYA-025	2mod
+2010-12-16	1222073	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/2D_Model	line_09SEYA-025_final_seis	png
+2011-01-04	63016	data_sample/GRAVMAG INTERPRETATION - FUGRO/Quantitative_Interpretation/2D_Model	line_09SEYA-025_final	png
+2011-01-06	51841024	data_sample/GRAVMAG INTERPRETATION - FUGRO	report	ppt
+2015-11-05	4096	data_sample	TEST_TAPE-Date_7-10-2009	
+2010-01-21	10339456	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_8	segd
+2010-01-21	10534432	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_3	segd
+2010-01-21	10534432	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_6	segd
+2010-01-21	10339456	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_7	segd
+2010-01-21	10534432	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_2	segd
+2010-01-21	10339456	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_9	segd
+2010-01-21	10534432	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_5	segd
+2010-01-21	10534432	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_1	segd
+2010-01-25	3173	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE.segd	LOG
+2010-01-21	10534432	data_sample/TEST_TAPE-Date_7-10-2009	TEST_TAPE_4	segd
+2015-11-26	4096	data_sample	FINAL-PSTM-STKS	
+2010-07-27	56293632	data_sample/FINAL-PSTM-STKS	FINAL-PSTM-STK-001-09SEYA-004P1	SGY
+2015-12-20	4096	data_sample	FINAL PROCESSING REPORT	
+2010-10-07	11165696	data_sample/FINAL PROCESSING REPORT	Black-Marlin-Seychelles-Final-Processing-Report	doc
+
